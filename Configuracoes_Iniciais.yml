@@ -52,8 +52,8 @@ git clone git@github.com:luiscruzcwb/luiscruz.com.br.git #Altere para o seu ende
 
 - git init
 	- git config --list 
-	- git config --global user.email luiscruzcwb@outlook.com	
-	- git config --global user.name Luis Cruz
+	- git config --global user.email usuario@email.com	
+	- git config --global user.name Nome Sobrenome
 - Caso seja preciso atualizar os dados:
 	- git config --global --unset "mudar o que precisa"
 	
@@ -71,7 +71,7 @@ git clone git@github.com:luiscruzcwb/luiscruz.com.br.git #Altere para o seu ende
 	- git push --force / git push -f 
 
 - Adicionar arquivos:
-	- git remote add origin https://github.com/luiscruzcwb/DIO.ME.git
+	- git remote add origin https://github.com/%UserName%/%RepositoryName%.git
 	- git remote -v 
 	- git branch -M main
 
@@ -90,4 +90,3 @@ git clone git@github.com:luiscruzcwb/luiscruz.com.br.git #Altere para o seu ende
 	- git remote -v
 	git remote set-url origin git@github.com:<user>/<repo>.git
 	git remote set-url origin git@gitlab.com:<user>/<repo>.git
-	
