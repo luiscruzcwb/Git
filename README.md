@@ -77,9 +77,9 @@ Projetos e estudos sobre Git.
 - `git push -v`
 - `git push -4 /`
 - `git push -u origin main`
-- `git push --force / git push -f
+- `git push --force / git push -f`
 
-**Adicionar arquivos:**
+Adicionar arquivos:
 - `git remote add origin https://github.com/%UserName%/%RepositoryName%.git`
 - `git remote -v`
 - `git branch -M main`
