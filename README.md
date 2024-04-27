@@ -60,6 +60,8 @@ Projetos e estudos sobre Git.
 
 ### Primeiros Comando / Principais comandos
 
+`**git help**`
+
 `git init`
 - `git config --list`
 - `git config --global user.email usuario@email.com`
@@ -75,7 +77,7 @@ Projetos e estudos sobre Git.
 
 `git push`
 - `git push -v`
-- `git push -4 /`
+- `git push -4`
 - `git push -u origin main`
 - `git push --force / git push -f`
 
