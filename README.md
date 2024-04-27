@@ -60,7 +60,7 @@ Git é:
 - touch ~/.ssh/config
 - nano config
 
-### Primeiros Comando
+### Primeiros Comando / Principais comandos
 
 `git init`
 - `git config --list`
@@ -101,3 +101,5 @@ Git é:
 	- `git remote set-url origin git@github.com:<user>/<repo>.git`
 	- `git remote set-url origin git@gitlab.com:<user>/<repo>.git`
 
+### Links 
+[Documentação Github](https://docs.github.com/pt/get-started)
