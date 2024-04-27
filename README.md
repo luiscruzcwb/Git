@@ -103,4 +103,7 @@ Adicionar arquivos:
 
 ### Links 
 [Documentação Github](https://docs.github.com/pt/get-started)
+
 [Documentação GIT](https://git-scm.com/doc)
+
+[O que é o Git?](https://learn.microsoft.com/pt-br/devops/develop/git/what-is-git)
