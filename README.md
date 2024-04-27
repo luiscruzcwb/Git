@@ -60,7 +60,7 @@ Projetos e estudos sobre Git.
 
 ### Primeiros Comando / Principais comandos
 
-`**git help**`
+`git help`
 
 `git init`
 - `git config --list`
