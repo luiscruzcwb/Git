@@ -14,6 +14,12 @@ Projetos e estudos sobre Git.
 - Trees
 - Commits
 
+### Pull Requests
+
+- Merge
+- Squash and Merge 
+- Rebase and Merge
+
 ### Instalação
 
 **Linux**
