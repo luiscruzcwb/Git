@@ -94,6 +94,11 @@ Adicionar arquivos:
 - `git checkout "nome da branch"`
 - `git push --set-upstream origin "nome da branch"`
 
+`git checkout`
+- `git checkout -b`
+- `git checkout -f`
+- `git checkout --`
+
 ### Conflitos ou Erros
 
 - fatal: Authentication Failed
