@@ -156,4 +156,7 @@ Adicionar arquivos:
 
 [Documentação Gitlab](https://docs.gitlab.com/)
 
+[GitFluence](https://gitfluence.com/)
+
+
 
