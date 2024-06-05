@@ -105,12 +105,47 @@ Adicionar arquivos:
 - `git checkout -f`
 - `git checkout --`
 
+### Branches- Criando, Mesclando, Deletando e Conflitos
+
+- `git branch -v`
+- `git merge`
+- `git branch -d` **Excluir Branch**
+- `git branch -v`
+
+- `git fetch`
+- `git diff`
+- `git stash`
+
+
+
 ### Conflitos ou Erros
 
 - fatal: Authentication Failed
 	- `git remote -v`
 	- `git remote set-url origin git@github.com:<user>/<repo>.git`
 	- `git remote set-url origin git@gitlab.com:<user>/<repo>.git`
+
+### Comandos em Geral / Configurações
+
+- Arquivo `.gitkeep` **Mostra pastas vazias**
+
+- Arquivo `.gitignore` **Oculta arquivos ou extensões definidas nesse arquivo**
+
+- `git restore` **Usado caso um arquivo tenha sido alterado, e seja preciso restaurar**
+
+- `git commit --amend -m` **Mudar o comentario ao executar um commit**
+
+- `git reset "nome do arquivo"`
+- `git reset --soft`
+- `git reset --mixed`
+- `git reset --hard`
+
+- `git reflog`
+
+
+
+
+
 
 ### Links 
 [Documentação GIT](https://git-scm.com/doc)
